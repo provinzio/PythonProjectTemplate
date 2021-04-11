@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": ".pyenv\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "[python]": {
+        "editor.formatOnPaste": false,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}

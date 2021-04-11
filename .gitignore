@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+
+# Python virtual environment
+*py*env*/
+
+# IDE
+.vscode/
+
+# Project specific
+
+
+# Always keep `.gitkeep`
+!.gitkeep
